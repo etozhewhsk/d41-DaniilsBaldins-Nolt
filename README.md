@@ -4,13 +4,13 @@ Nolt - Ēdienu pasutišanas un piegādes serviss.
 Kvalifikacijas darba merķis ir izveidot servisu, ar kuru var pasūtit ēdienu no restorana. Servisam būs 3 apakšsistēmas. Reģistrēta lietotāja sistēma, viesa sistēma, pardeveja sistēma. Viesim bus iespeja registreties, apskatīt ēdienu. Lietotajam bus iespeja ielikt ēdienu grozā, apskatiīt un veidot pasutijumus. Pardevejs var pievienot jauno ēdienu, kategoriju, noņemt preces un rediģet jau esošas.
 ## Izmantotās tehnoloģijas
 Projektā tiek izmantots:
--PHP
--HTML
--CSS
--JavaScript
--jQuery
--MySql
--Bootstrap
+- PHP
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- MySql
+- Bootstrap
 ## Izmantotie avoti
 [Video #1](https://www.youtube.com/watch?v=eCItZh6uMVc) - Ka izveidot registrāciju #1
 
