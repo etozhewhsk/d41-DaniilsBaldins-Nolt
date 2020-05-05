@@ -13,8 +13,11 @@ Projektā tiek izmantots:
 -Bootstrap
 ## Izmantotie avoti
 [Video #1](https://www.youtube.com/watch?v=eCItZh6uMVc) - Ka izveidot registrāciju #1
+
 [Video #2](https://www.youtube.com/watch?v=3UtB4QS6EAg) - Ka izveidot administraciju
+
 [Video #3](https://www.youtube.com/watch?v=XngWZd6J3s8) - Ka izveidot grozu
+
 [INSPINIA](https://www.themesbulk.info/2019/04/inspinia-v-292-responsive-html5-admin.html) -tika paņemta tēma priekš administatora mājaslapas.
 ## Uzstādīšanas instrukcijas
 1. Lai lietotu git lejupielādējam Git for windows
