@@ -1,2 +1,4 @@
-# d41-DaniilsBaldins-Nolt
-Nolt Edienu Pasutijums
+# Nolt Edienu Pasutijums
+
+## Projekta apraksts
+
